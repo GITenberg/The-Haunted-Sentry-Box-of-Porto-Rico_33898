@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36848'
     url: http://www.gutenberg.org/2009/agents/36848
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33898#The-Haunted-Sentry-Box-of-Porto-Rico
 gutenberg_issued: '2010-10-31'
 gutenberg_type: Text
 identifiers:
