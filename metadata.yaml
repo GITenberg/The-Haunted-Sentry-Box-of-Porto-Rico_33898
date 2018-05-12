@@ -1,0 +1,26 @@
+_repo: The-Haunted-Sentry-Box-of-Porto-Rico_33898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Lewis
+    gutenberg_agent_id: '36848'
+    url: http://www.gutenberg.org/2009/agents/36848
+description: ''
+gutenberg_issued: '2010-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33898'
+  lccn: '16010337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Puerto Rico -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Haunted Sentry Box of Porto Rico
+url: http://www.gutenberg.org/ebooks/33898
